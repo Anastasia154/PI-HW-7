@@ -1,0 +1,15 @@
+C:\Users\User\source\PI7\pi7\pi7\bin\Debug\net6.0\pi7.exe
+C:\Users\User\source\PI7\pi7\pi7\bin\Debug\net6.0\pi7.deps.json
+C:\Users\User\source\PI7\pi7\pi7\bin\Debug\net6.0\pi7.runtimeconfig.json
+C:\Users\User\source\PI7\pi7\pi7\bin\Debug\net6.0\pi7.dll
+C:\Users\User\source\PI7\pi7\pi7\bin\Debug\net6.0\pi7.pdb
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\pi7.csproj.AssemblyReference.cache
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\pi7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\pi7.AssemblyInfoInputs.cache
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\pi7.AssemblyInfo.cs
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\pi7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\pi7.dll
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\refint\pi7.dll
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\pi7.pdb
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\pi7.genruntimeconfig.cache
+C:\Users\User\source\PI7\pi7\pi7\obj\Debug\net6.0\ref\pi7.dll
