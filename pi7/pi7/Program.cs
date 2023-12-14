@@ -21,6 +21,18 @@ namespace pi
             Console.WriteLine(CountSum(b, c));
             Console.WriteLine(TheSameParity(a, b));
             Console.WriteLine(DifferentParity(a, c));
+
+
+
+
+
+
+
+            string srtv = Environment.GetEnvironmentVariable("ShouldRunTests");
+            bool val = false;
+            if (val) { Console.WriteLine(srtv); }
+            else { Console.WriteLine("it's false");}
+
         }
 
         // сумма чисел
