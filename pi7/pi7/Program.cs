@@ -31,7 +31,7 @@ namespace pi
             string srtv = Environment.GetEnvironmentVariable("ShouldRunTests");
             bool val = false;
             if (val) { Console.WriteLine(srtv); }
-            else { Console.WriteLine("it's false");}
+            else { Console.WriteLine("tests are failed");}
 
         }
 
